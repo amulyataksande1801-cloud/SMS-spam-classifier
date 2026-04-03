@@ -20,6 +20,7 @@ Achieved approximately 93% accuracy on test data
 ## 📸 Output
 <img width="1230" height="638" alt="image" src="https://github.com/user-attachments/assets/2c69e682-4c84-4973-8742-5d8319dc54ec" />
 
+<img width="1233" height="549" alt="image" src="https://github.com/user-attachments/assets/a375ade6-891f-44f1-9ec8-80792491f0f1" />
 
 
 
