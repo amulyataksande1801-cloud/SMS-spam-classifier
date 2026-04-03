@@ -18,9 +18,9 @@ Achieved approximately 93% accuracy on test data
 - Streamlit
 
 ## 📸 Output
-Screenshot 2026-04-03 230633.png
+https://github.com/amulyataksande1801-cloud/SMS-spam-classifier/blob/main/Screenshot%202026-04-03%20230633.png?raw=true
 
-Screenshot 2026-04-03 230734.png
+
 
 📌 Project Approach
 
