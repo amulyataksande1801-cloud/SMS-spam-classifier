@@ -18,7 +18,9 @@ Achieved approximately 93% accuracy on test data
 - Streamlit
 
 ## 📸 Output
-![App Screenshot](screenshot.png)
+Screenshot 2026-04-03 230633.png
+
+Screenshot 2026-04-03 230734.png
 
 📌 Project Approach
 
