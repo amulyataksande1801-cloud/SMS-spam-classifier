@@ -18,9 +18,13 @@ Achieved approximately 93% accuracy on test data
 - Streamlit
 
 ## 📸 Output
-(Add your screenshot here after uploading image)
+![App Screenshot](screenshot.png)
 
-## ▶️ Run Locally
+📌 Project Approach
+
+The SMS Spam Classifier project uses machine learning to detect whether a message is spam or not. First, the dataset was loaded and the text was cleaned by converting it to lowercase and removing special characters. Then, TF-IDF vectorization was applied to convert text into numerical form. A Logistic Regression model was trained on this data and evaluated, achieving around 93% accuracy. Finally, a Streamlit web application was built to allow users to input messages and get real-time spam predictions.
+
+## ▶️ How to Run
 ```bash
 pip install streamlit scikit-learn pandas
 python -m streamlit run main.py
